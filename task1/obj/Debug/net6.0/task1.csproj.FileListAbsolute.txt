@@ -1,0 +1,15 @@
+/Users/kussul/Desktop/языки программирования/homework1/task1/bin/Debug/net6.0/task1
+/Users/kussul/Desktop/языки программирования/homework1/task1/bin/Debug/net6.0/task1.deps.json
+/Users/kussul/Desktop/языки программирования/homework1/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/kussul/Desktop/языки программирования/homework1/task1/bin/Debug/net6.0/task1.dll
+/Users/kussul/Desktop/языки программирования/homework1/task1/bin/Debug/net6.0/task1.pdb
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/task1.dll
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/task1.pdb
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/kussul/Desktop/языки программирования/homework1/task1/obj/Debug/net6.0/ref/task1.dll
