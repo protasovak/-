@@ -24,11 +24,8 @@ static void Main(string[]args)
     while (number > 0)
     {
         int dig = number % 10;
-        Console.WriteLine(dig);
         newValue = newValue * 10 + dig;
-        Console.WriteLine(newValue);
         number=number / 10;
-        Console.WriteLine(number);
     }
     if(newValue==oldValue)
        Console.WriteLine("Палиндром");
